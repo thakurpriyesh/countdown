@@ -3,9 +3,6 @@
 A **sleek, animated “Coming Soon” page** featuring a **dynamic, generative particle background** and a **futuristic, sci-fi design**.  
 Built entirely with **vanilla HTML, CSS, and JavaScript**, this lightweight project is perfect for **product launches, event announcements, or personal portfolios**.
 
-![Project Screenshot](https://user-images.githubusercontent.com/example.png)  
-*(Note: Replace this link with your own screenshot!)*
-
 ---
 
 ## 🌟 Core Features
